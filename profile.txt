@@ -1,4 +1,4 @@
-Name: KashZas
+Name: KashBeafy
 Matric Number: 251594949
 Course: DataScienceAI
 Hobbies: Coding, Gaming
