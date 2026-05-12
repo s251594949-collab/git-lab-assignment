@@ -1,5 +1,4 @@
-Name: KashBeafyMainVersion
-Name: FeatureVersion
+Name: KashBeafyMainVersion / FeatureVersion
 Matric Number: 251594949
 Course: DataScienceAI
 Hobbies: Coding, Gaming
